@@ -73,8 +73,8 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/TamimFuckersHacks/US-DDOS-V2
-cd US-DDOS-V2
+git clone https://github.com/TeamAX003/AX-DDOS
+cd AX-DDOS
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
