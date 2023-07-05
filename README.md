@@ -20,8 +20,8 @@
  </div>
  
  ## Logs</br>
- - NEW OVH-BEAM METHODS!
- - Hi all, there are fools scam tool github for 20usd
+ - NEW PowerFull Method Added!
+ - Hi all, Here AXDDOS Is Most Safe And Powerful Stresser For Everyone.
  
 ## Screenshot
 ![lk](https://i.ibb.co/LNkqyPR/bandicam-2022-04-12-22-11-34-101.jpg)
